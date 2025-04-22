@@ -18,7 +18,7 @@ Movie App - это веб-приложение, разработанное дл�
 
 <img width="1320" alt="Снимок экрана 2025-01-03 в 15 10 02" src="https://github.com/user-attachments/assets/7904895c-a968-417a-aa55-217f09f12717" />
 
-https://github.com/user-attachments/assets/d0d9adef-ee12-45a8-9918-30e9eaa28042
+ Ссылка на видеоописание: https://github.com/user-attachments/assets/d0d9adef-ee12-45a8-9918-30e9eaa28042
 ---
 ## Основные функции
 
