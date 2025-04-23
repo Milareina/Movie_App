@@ -4,11 +4,11 @@
 
 <div id="russian-version">
  
-# MovieSearch
+# 🎬MovieSearch
 
 Приложение для поиска и просмотра информации о фильмах.
 
-## Команда разработчиков
+## 👥Команда разработчиков
 
 Team Lead, Frontend разработчик </br>
 [![GitHub](https://img.shields.io/badge/GitHub-Milareina-181717?style=for-the-badge&logo=github)](https://github.com/Milareina) 
@@ -18,15 +18,15 @@ Team Lead, Frontend разработчик </br>
 
 
 
-## Описание
+## 📄Описание
 
 MovieSearch - это веб-приложение, разработанное для поиска и просмотра информации о фильмах. Приложение предоставляет удобный интерфейс для просмотра популярных фильмов, сезонных подборок и фильмов по комиксам.
 
 <img width="1320" alt="Снимок экрана 2025-01-03 в 15 10 02" src="https://github.com/user-attachments/assets/7904895c-a968-417a-aa55-217f09f12717" />
 
- Ссылка на видеоописание: https://github.com/user-attachments/assets/d0d9adef-ee12-45a8-9918-30e9eaa28042
+ 🔗Ссылка на видеоописание: https://github.com/user-attachments/assets/d0d9adef-ee12-45a8-9918-30e9eaa28042
 ---
-## Основные функции
+## 🚀Основные функции
 
 - Просмотр популярных фильмов
 - Сезонные подборки фильмов
@@ -34,13 +34,13 @@ MovieSearch - это веб-приложение, разработанное д�
 - Адаптивный дизайн
 - Удобная навигация с помощью стрелок
 
-## Технологии
+## 🛠️Технологии
 
 - Vite
 - SASS
 - JavaScript (ES6+)
 
-## Установка и запуск
+## 🚀Установка и запуск
 
 1. Клонируйте репозиторий:
 ```bash
@@ -65,11 +65,11 @@ npm start
 
 <div id="english-version">
  
-# MovieSearch
+# 🎬MovieSearch
 
 A web application for searching and viewing movie information.
 
-## Development Team
+## 👥Development Team
 
 Team Lead, Frontend Developer </br>
 [![GitHub](https://img.shields.io/badge/GitHub-Milareina-181717?style=for-the-badge&logo=github)](https://github.com/Milareina) 
@@ -77,17 +77,17 @@ Team Lead, Frontend Developer </br>
 Tester, Frontend Developer </br>
 [![GitHub](https://img.shields.io/badge/GitHub-Olya7me-181717?style=for-the-badge&logo=github)](https://github.com/Olya7me) 
 
-## Description
+## 📄Description
 
 MovieSearch is a web application designed for searching and viewing movie information. The application provides a user-friendly interface for browsing popular movies, seasonal collections, and comic-based movies.
 
 <img width="1320" alt="Screenshot 2025-01-03 at 15 10 02" src="https://github.com/user-attachments/assets/7904895c-a968-417a-aa55-217f09f12717" />
 
-Video description link: https://github.com/user-attachments/assets/d0d9adef-ee12-45a8-9918-30e9eaa28042
+🔗Video description link: https://github.com/user-attachments/assets/d0d9adef-ee12-45a8-9918-30e9eaa28042
 
 ---
 
-## Main Features
+## 🚀Main Features
 
 - Popular movies browsing
 - Seasonal movie collections
@@ -95,13 +95,13 @@ Video description link: https://github.com/user-attachments/assets/d0d9adef-ee12
 - Responsive design
 - Convenient navigation with arrows
 
-## Technologies
+## 🛠️Technologies
 
 - Vite
 - SASS
 - JavaScript (ES6+)
 
-## Installation and Setup
+## 🚀Installation and Setup
 
 1. Clone the repository:
 ```bash
